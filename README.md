@@ -1,3 +1,3 @@
 # app-dev
 My first repository
-favorite series: Stranger Things
+add info about favorite series: Stranger Things
